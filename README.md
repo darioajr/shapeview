@@ -1,2 +1,2 @@
 # shapeview
-C++ Shape file Viewer
+C++ Shape file ArcGIS Viewer
