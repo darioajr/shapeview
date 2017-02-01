@@ -1,0 +1,9 @@
+#if !defined(_MESSAGE_)
+#define _MESSAGE_
+
+#define WMU_QUERYRESULT (WM_APP+100)
+#define WMU_INITPAINT (WM_APP+101)
+#define WMU_EXITPAINT (WM_APP+102)
+#define WMU_COORDINATE (WM_APP+103)
+
+#endif //_MESSAGE_
